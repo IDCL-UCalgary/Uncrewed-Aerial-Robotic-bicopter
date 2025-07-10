@@ -1,4 +1,4 @@
-# blipo_robotic_arm
+# Blipo robotic arm
 This repository contains the control files for the Yahboom Jetcobot 7, a robotic arm powered by the Jetson Orin Nano. Blipo is a programmable 6 DOF robotic arm designed to work with ROS.
 
 ## Affiliations
